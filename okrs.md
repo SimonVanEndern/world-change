@@ -4,29 +4,28 @@ For more information on Objectives & Key Results, see the [guide by Google](http
 
 It is absolutely necessary that you have read these guides in order to understand this document.
 
-Our objectives are selected in order to follow our mission and vision defined in [our vision statement](vision.md)
+Our objectives are selected in order to follow our mission and vision defined in [our vision statement](vision.md).
 
 We use numbers on a scale from 0.0 to 1.0 to grade key results.
 
 
 ## Time horizon
-We define the first OKR's on a three-month basis. Start for the first period is 28.10.2020
+We define the first OKR's on a three-month basis. Start for the first period is 28.10.2020.
 
 ## Current Objectives and Key results
 
 ### Objective 1
-Increase the visibility of this world-wide united approach. (Increase our circle of influence)
+Increase the visibility of this world-wide united approach
 
 #### Key results:
-* Having one million followers (github, twitter, facebook, linkedin, etc.)
+* Having one million followers combined on different platforms (e.g. github, twitter, facebook, linkedin, etc.).
 
 * Having a brand carved out that can be used for social media places and can be co-used (with modification) for connected objectives / companies, etc. The brand will be re-usable with different logos like the goolge maps brand colors. 
 
 * Translate all documents in this repository and all linked OKR documents into Chinese, Arabic, Russian, German, Frensh, Spanish, Portuguese, Hindi, Bengali, Indonesian. These are (apart from German) the most spoken languages in the world according to [this article](https://www.visualcapitalist.com/100-most-spoken-languages/#:~:text=Which%20Languages%20Have%20the%20Most,round%20out%20the%20top%20five.).
 
 ### Objective 2
-Shorten the iteration loops and increase speed of changes in order to reach our vision state.
-Help other people to develop faster and help each other more. (--> Shorten the iteration loop and increase effectiveness of initiatives)
+Shorten iteration loops and increase speed of changes. Help other people to develop (themselves) faster
 
 #### Key results:
 * Increase the use and knowledge about feedback: Increase google trends search for the term "feedback" to a level above the last 12 months peaks.
@@ -36,7 +35,7 @@ Help other people to develop faster and help each other more. (--> Shorten the i
 * Increase google trends search results for the term "lean", "prototype", "agile" to a level above the last 12 months peaks.
 
 ### Objective 3
-Increase the scope of what is done (under our umbrella / connected to us) in order to reach our vision state.
+Increase the scope of what is done (under our umbrella of our initiative) 
 
 #### Key results:
 * Having 10.000 companies worldwide commited (by statement on their website, etc.) to our objective / vision / mission.
