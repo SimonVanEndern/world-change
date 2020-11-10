@@ -1,4 +1,4 @@
-# OKR's
+# World Changing OKR's
 ## Background & Explanation
 For more information on Objectives & Key Results, see the [guide by Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), one of the first companies to implement OKR's and read [this article](https://www.metabeta.com/articles/process/keep-the-main-thing-the-main-thing-a-guide-to-implementing-okrs-and-building-an-accountable-team/).
 
@@ -10,7 +10,7 @@ We use numbers on a scale from 0.0 to 1.0 to grade key results.
 
 
 ## Time horizon
-We define the first OKR's on a three-month basis. Start for the first period is 28.10.2020. End is 31.01.2021.
+We define the first OKR's on a three-month basis. Start for the first period is 23.11.2020. End is 28.02.2021.
 
 ## Current Objectives and Key results
 
