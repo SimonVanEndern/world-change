@@ -20,7 +20,7 @@ Increase the visibility of this world-wide united approach
 #### Key results:
 * Having one million followers combined on different platforms (e.g. github, twitter, facebook, linkedin, etc.).
 
-* Having a brand carved out that can be used for social media places and can be co-used (with modification) for connected objectives / companies, etc. The brand will be re-usable with different logos like e.g. the goolge brand colors. 
+* Having a brand carved out that can be used for social media places and can be co-used (with modification) for connected objectives / companies, etc. The brand will be re-usable with different logos like e.g. the google brand colors. 
 
 * All documents in this repository and all linked OKR documents are available also in Chinese, Arabic, Russian, German, Frensh, Spanish, Portuguese, Hindi, Bengali, Indonesian. These are (apart from German) the most spoken languages in the world according to [this article](https://www.visualcapitalist.com/100-most-spoken-languages/#:~:text=Which%20Languages%20Have%20the%20Most,round%20out%20the%20top%20five.).
 
